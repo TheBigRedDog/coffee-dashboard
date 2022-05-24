@@ -292,7 +292,7 @@ body {background-color: #2c3e50;}
   color: #ffd953;
   background-color: #2c3e50;
   display: grid;
-  grid-template-columns:1000px 800px;
+  grid-template-columns: 50vw 50vw;
   grid-template-areas:
     "overview detail";
 }
@@ -332,7 +332,7 @@ ul {
 }
 
 #Spider_checks {
-
+  display: grid;
 }
 
 #Actual_Spider_Chart {
